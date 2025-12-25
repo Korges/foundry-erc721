@@ -1,0 +1,11 @@
+{
+    "name": "BNFT",
+    "description": "An adorable BNFT pup!",
+    "image": "https://bafybeiblrrs3ycwyaxoqsxvksgl63hijocinlidypypb7lcw73qluomi2u.ipfs.dweb.link?filename=jelo_coin.jpg",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
