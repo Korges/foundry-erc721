@@ -23,7 +23,7 @@ contract MoodNft is ERC721 {
     constructor(
         string memory sadSvgUri,
         string memory happySvgUri
-    ) ERC721("Mood NFT", "MNFT") {
+    ) ERC721("MoodNFT", "MNFT") {
         s_tokenCounter = 0;
         s_sadSvgUri = sadSvgUri;
         s_happySvgUri = happySvgUri;

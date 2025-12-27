@@ -8,7 +8,7 @@ import {Test, console2} from "forge-std/Test.sol";
 import {MintBasicNft} from "../script/Interactions.s.sol";
 
 contract BasicNftTest is Test {
-    string constant NFT_NAME = "BasicNft";
+    string constant NFT_NAME = "BasicNFT";
     string constant NFT_SYMBOL = "BNFT";
     BasicNft public basicNft;
     DeployBasicNft public deployer;
